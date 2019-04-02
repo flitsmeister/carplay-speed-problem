@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="http://www.geoplaner.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="51.8316" lon="5.8436">
+<name>WP01-A</name>
+</wpt>
+<wpt lat="51.83184" lon="5.84338">
+<name>WP02-B</name>
+</wpt>
+<wpt lat="51.83205" lon="5.8432">
+<name>WP03-C</name>
+</wpt>
+<wpt lat="51.83222" lon="5.843">
+<name>WP04-D</name>
+</wpt>
+<wpt lat="51.8324" lon="5.84286">
+<name>WP05-E</name>
+</wpt>
+<wpt lat="51.83258" lon="5.84266">
+<name>WP06-F</name>
+</wpt>
+<wpt lat="51.83273" lon="5.84247">
+<name>WP07-G</name>
+</wpt>
+<wpt lat="51.83294" lon="5.8423">
+<name>WP08-H</name>
+</wpt>
+<wpt lat="51.8331" lon="5.84213">
+<name>WP09-I</name>
+</wpt>
+<wpt lat="51.8333" lon="5.84194">
+<name>WP10-J</name>
+</wpt>
+<wpt lat="51.83345" lon="5.84181">
+<name>WP11-K</name>
+</wpt>
+<wpt lat="51.83366" lon="5.84163">
+<name>WP12-L</name>
+</wpt>
+<wpt lat="51.83386" lon="5.8414">
+<name>WP13-M</name>
+</wpt>
+<wpt lat="51.83406" lon="5.84124">
+<name>WP14-N</name>
+</wpt>
+<wpt lat="51.83428" lon="5.84105">
+<name>WP15-O</name>
+</wpt>
+<wpt lat="51.83447" lon="5.84082">
+<name>WP16-P</name>
+</wpt>
+</gpx>
